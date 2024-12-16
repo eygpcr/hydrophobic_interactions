@@ -57,3 +57,9 @@ We welcome contributions to this project! Here's how you can contribute:
 2. Clone your fork to your local machine:
    ```bash
    git clone https://github.com/eygpcr/hydrophobic_interactions.git
+
+---
+
+## License
+
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this project under the terms of the license.
